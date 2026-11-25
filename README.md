@@ -1,4 +1,4 @@
-# CommunityLab
+# CommunityLab — AI-Powered Community Intelligence
 
 ![ONE G10](https://img.shields.io/badge/ONE-G10-00875A?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -10,7 +10,23 @@
 **Detector Inteligente de Histórias de Sucesso e Testemunhos com IA**  
 **Hackathon ONE G10 — Equipe 18 | Oracle Next Education + Alura | Simulação No Country**
 
-> **Situação em 22/11/2026:** fluxo demonstrado com dados fictícios, análise por LLM e armazenamento real na OCI. Apresentação do Demo Day aprovada pelo grupo. **Homologação funcional do MVP ainda pendente.** Integrações, revisões e retestes são acompanhados separadamente.
+> **Registro histórico de 22/11/2026 (não representa uma verificação atual da implantação):** fluxo demonstrado com dados fictícios, análise por LLM e armazenamento real na OCI. Apresentação do Demo Day aprovada pelo grupo. **Homologação funcional do MVP ainda pendente.** Integrações, revisões e retestes são acompanhados separadamente.
+
+---
+
+## Professional Portfolio | Visão executiva
+
+**Business challenge:** transformar interações dispersas de comunidades digitais em histórias e ativos editoriais rastreáveis, com revisão humana e controle de autorização de divulgação.
+
+**Solution:** pipeline de ingestão CSV/JSON, análise com LLMs, geração de sugestões editoriais, curadoria humana e persistência em Oracle Cloud Infrastructure (OCI).
+
+**My role — Project Manager:** coordenação do projeto multidisciplinar, acompanhamento de entregas e critérios de aceitação, articulação das revisões técnicas e preparação da apresentação em colaboração com a equipe. O desenvolvimento é coletivo; os créditos individuais estão na seção Equipe.
+
+**Business applications:** Community Intelligence, Marketing Intelligence, gestão de conhecimento e produção editorial assistida por IA. Não há publicação automática nem métricas de impacto comercial validadas neste registro.
+
+**Portfolio repository:** esta é a cópia pessoal para apresentação profissional do projeto colaborativo ONE G10, Equipe 18. O [repositório da equipe](https://github.com/No-Country-simulation/G10-Brasil-Equipe-18) é a referência para o desenvolvimento colaborativo e seu estado mais recente. As tabelas de acompanhamento abaixo preservam o registro histórico datado; não equivalem ao status atual da equipe.
+
+[Assistir à demonstração](https://youtu.be/y0ZyTRXie10) · [Arquitetura e documentação](docs/architecture/README.md) · [Plano de aceitação](docs/CATP_TEST_PLAN.md)
 
 ---
 
