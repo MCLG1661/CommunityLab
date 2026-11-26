@@ -17,6 +17,9 @@
 
 A collaborative ONE G10 hackathon project that turns digital community interactions into traceable success stories and editorial suggestions. The documented MVP combines CSV/JSON ingestion, LLM analysis, human review and Oracle Cloud Infrastructure storage. My role was Project Manager, coordinating delivery and acceptance criteria with the team. The personal repository preserves a historical demonstration; functional acceptance was pending in the 22 November 2026 record. See the [team repository](https://github.com/No-Country-simulation/G10-Brasil-Equipe-18) for collaborative development.
 
+
+[Business Case Study — English](BUSINESS_CASE.md)
+
 ---
 
 ## Professional Portfolio | Visão executiva
